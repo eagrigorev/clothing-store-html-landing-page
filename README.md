@@ -14,3 +14,5 @@ To launch that project, you will need to install Node.js on your PC and install 
 6. nodemon
 7. webpack
 8. webpack-cli
+
+After that, run the application: node server/server.js
