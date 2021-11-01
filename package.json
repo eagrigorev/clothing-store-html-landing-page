@@ -1,7 +1,7 @@
 {
-  "name": "java-script-advanced",
+  "name": "clothing-store-landing-page",
   "version": "1.0.0",
-  "description": "Домашние задания по курсу \"Продвинутый курс JavaScript\" на портале GeekBrains.",
+  "description": "A single page clothing store template with Vue.js and Node.js backend implementation.",
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eagrigorev/java-script-advanced.git"
+    "url": "git+https://github.com/eagrigorev/clothing-store-landing-page.git"
   },
-  "author": "",
+  "author": "eagrigorev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eagrigorev/java-script-advanced/issues"
+    "url": "https://github.com/eagrigorev/clothing-store-landing-page/issues"
   },
-  "homepage": "https://github.com/eagrigorev/java-script-advanced#readme"
+  "homepage": "https://github.com/eagrigorev/clothing-store-landing-page#readme"
 }
