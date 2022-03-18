@@ -1,4 +1,4 @@
-## Clothing Store Landing Page
+## Clothing Store HTML Landing Page
 
 ### Running the App
 
