@@ -1,4 +1,4 @@
-## Multi-Page Clothing Store
+## Clothing Store Landing Page
 
 ### Running the App
 
